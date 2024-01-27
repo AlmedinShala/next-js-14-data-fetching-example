@@ -1,4 +1,4 @@
-This is a [Next.js] 14 project which examples data fetching on server and client.
+This is a NextJs 14 project which examples data fetching on server and client.
 
 ## Getting Started
 
